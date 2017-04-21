@@ -1,0 +1,3 @@
+This is the customized script used in the fly memory project.
+	1) integrate.sh integrates data from DAVID and edgeR.
+	2) netPlot.R generates the plot.
